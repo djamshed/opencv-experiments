@@ -5,8 +5,11 @@ Opencv experiments
 ### Moving object in two images
 
 **Input files:**
-![Input 1](images/img1.jpg)
-![Input 2](images/img2.jpg)
 
-[diff-distance.py](src/diff-distance.py)
-![Result diff-distance.py](images/result-diff-distance.jpg)
+<img src="images/img1.jpg" width="200px">
+<img src="images/img2.jpg" width="200px">
+
+
+[diff-distance.py](src/diff-distance.py) output:
+
+<img src="images/result-diff-distance.jpg" width="200px">
